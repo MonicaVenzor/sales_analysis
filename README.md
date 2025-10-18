@@ -1,4 +1,9 @@
 # 🛍️ Superstore Sales Dashboard — Python, Plotly & Dash
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)]()
+[![Plotly](https://img.shields.io/badge/Plotly-Dash-00cc96?logo=plotly&logoColor=white)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4a90e2)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Interactive sales analysis dashboard built with **Python**, **Plotly**, and **Dash**.  
 Includes KPIs, filters, and dynamic visualizations.
 
@@ -131,11 +136,25 @@ Sales trend increases steadily through 2017, with Q4 peaks.
 | **Seaborn**    | Static comparisons and EDA             |
 | **Matplotlib** | Trend validation & complementary plots |
 
-![Sales by Category](plots/sales_by_category_plotly.png)
-![Sales by Region](plots/sales_by_region_plotly.png)
-![Monthly sales trend](plots/monthly_sales_trend_plotly.png)
-![Profit vs Discount](plots/profit_vs_discount_plotly.png)
-![Top 10 cities by sales](plots/top_10_cities_by_sales_plotly.png)
+<p align="center">
+  <img src="plots/sales_by_category_plotly.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="plots/sales_by_region_plotly.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="plots/monthly_sales_trend_plotly.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="plots/profit_vs_discount_plotly.png" width="80%">
+</p>
+
+<p align="center">
+  <img src="plots/top_10_cities_by_sales_plotly.png" width="80%">
+</p>
 
 ---
 
